@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{485467F0-F65C-49CA-9DFA-B676577FE632}" SchemaVersion="62">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{485467F0-F65C-49CA-9DFA-B676577FE632}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="vox_s13103" ID="{E9BCA481-B7E1-40B8-99C9-1F73077D5560}">
+					<ObjectInclusionList>
+						<ObjectRef Name="vox" ID="{225C1B14-D556-4F0F-AB1E-E91A81200E6C}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="DD_s13103" ID="{28DFD875-6DFD-4381-AD50-EF81767D1A91}" WorkUnitID="{970F9285-B954-4685-8B26-6404E72FCBE7}" Filter="7" Origin="Manual" />
+					</ObjectInclusionList>
+					<ObjectExclusionList>
+						<ObjectRef Name="bgm_pazescape_SneakCaution" ID="{46A4B91C-C5B5-4D13-B1FD-6B80828C154B}" WorkUnitID="{1CACFFA2-A232-4D49-9A8B-5E71B0AD172D}" />
+						<ObjectRef Name="bgm_pazescape_Evasion" ID="{40FF071E-45D3-4D82-97DB-D1C358D4E424}" WorkUnitID="{1CACFFA2-A232-4D49-9A8B-5E71B0AD172D}" />
+						<ObjectRef Name="Paz-Is-Dead" ID="{F497B17D-657D-4756-AE2B-1CD42DC139B8}" WorkUnitID="{1CACFFA2-A232-4D49-9A8B-5E71B0AD172D}" />
+						<ObjectRef Name="bgm_pazescape_Alert" ID="{3559AA92-7F0E-43BB-9E0C-E5231D8287D4}" WorkUnitID="{1CACFFA2-A232-4D49-9A8B-5E71B0AD172D}" />
+						<ObjectRef Name="bgm_pazescape_Clearing" ID="{2C25ABA1-D297-43D1-8008-3A102E04C1CC}" WorkUnitID="{1CACFFA2-A232-4D49-9A8B-5E71B0AD172D}" />
+						<ObjectRef Name="bgm_pazescape_tranision_ToEvasion" ID="{7FDC3AA7-343E-4FAB-A265-0B6B5EA7DAE6}" WorkUnitID="{1CACFFA2-A232-4D49-9A8B-5E71B0AD172D}" />
+						<ObjectRef Name="bgm_pazescape_transitionto_ToSneakCaution" ID="{776450CC-B911-4C95-975A-6008CB2FF8C2}" WorkUnitID="{1CACFFA2-A232-4D49-9A8B-5E71B0AD172D}" />
+					</ObjectExclusionList>
+					<GameSyncExclusionList>
+						<GameSyncRef Name="bgm_phase_ct_nt" ID="{12601503-0CBF-4408-9283-B0CCDFC9B670}" WorkUnitID="{98A676D1-96A6-41E4-8064-0D55F5B2BAA3}" Origin="Manual" />
+						<GameSyncRef Name="bgm_phase_nt" ID="{F7FC7C08-F57C-49EE-AC3E-7435931E6B65}" WorkUnitID="{98A676D1-96A6-41E4-8064-0D55F5B2BAA3}" Origin="Manual" />
+						<GameSyncRef Name="bgm_phase_sn" ID="{E9224F41-B479-41D8-B662-8C89C209AF65}" WorkUnitID="{98A676D1-96A6-41E4-8064-0D55F5B2BAA3}" Origin="Manual" />
+						<GameSyncRef Name="None" ID="{9BBCBD4E-1678-42B4-BED5-279705114668}" WorkUnitID="{98A676D1-96A6-41E4-8064-0D55F5B2BAA3}" Origin="Manual" />
+						<GameSyncRef Name="bgm_phase_neutral" ID="{08F61B60-97D0-422A-B525-DAD16082CB4C}" WorkUnitID="{98A676D1-96A6-41E4-8064-0D55F5B2BAA3}" Origin="Manual" />
+						<GameSyncRef Name="bgm_phase_lost" ID="{A80FE675-3C38-4764-B614-5C521403FAB4}" WorkUnitID="{98A676D1-96A6-41E4-8064-0D55F5B2BAA3}" Origin="Manual" />
+						<GameSyncRef Name="bgm_phase_ev" ID="{902DAC76-9814-4744-B92C-2DB086AFF014}" WorkUnitID="{98A676D1-96A6-41E4-8064-0D55F5B2BAA3}" Origin="Manual" />
+						<GameSyncRef Name="bgm_phase_al_es" ID="{9256B88B-DB84-490D-9519-B3B98DB28DCF}" WorkUnitID="{98A676D1-96A6-41E4-8064-0D55F5B2BAA3}" Origin="Manual" />
+						<GameSyncRef Name="bgm_phase_ct" ID="{DE1662A0-3850-463E-8718-1CB81BCF9B88}" WorkUnitID="{98A676D1-96A6-41E4-8064-0D55F5B2BAA3}" Origin="Manual" />
+						<GameSyncRef Name="bgm_phase_al_outr" ID="{765AD7A4-6278-4A4C-A4AD-6244675BDE81}" WorkUnitID="{98A676D1-96A6-41E4-8064-0D55F5B2BAA3}" Origin="Manual" />
+					</GameSyncExclusionList>
+				</SoundBank>
+				<SoundBank Name="bgm_s13103" ID="{6ED7B893-9112-465B-B7A9-9A071255F1FB}">
+					<ObjectInclusionList>
+						<ObjectRef Name="s13103_MusicEvents" ID="{AF79D7CE-3980-4B02-B6F9-733E7120165D}" WorkUnitID="{AF79D7CE-3980-4B02-B6F9-733E7120165D}" Filter="7" Origin="Manual" />
+						<ObjectRef Name="s13103_music" ID="{95CD71DE-92BD-477F-AEF7-15016851A725}" WorkUnitID="{95CD71DE-92BD-477F-AEF7-15016851A725}" Filter="7" Origin="Manual" />
+					</ObjectInclusionList>
+					<ObjectExclusionList />
+					<GameSyncExclusionList />
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

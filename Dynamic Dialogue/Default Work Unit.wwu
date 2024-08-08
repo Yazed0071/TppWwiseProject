@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{970F9285-B954-4685-8B26-6404E72FCBE7}" SchemaVersion="62">
+	<DynamicDialogue>
+		<WorkUnit Name="Default Work Unit" ID="{970F9285-B954-4685-8B26-6404E72FCBE7}" PersistMode="Standalone">
+			<ChildrenList>
+				<DialogueEvent Name="DD_s13103" ID="{28DFD875-6DFD-4381-AD50-EF81767D1A91}">
+					<ArgumentList>
+						<ArgumentRef Name="chara" ID="{0ED7C265-CEF9-4077-A102-AC0FA50AC316}" />
+						<ArgumentRef Name="condition" ID="{4D3F32FF-BDDA-43C9-B27B-4BC6ED84F57F}" />
+					</ArgumentList>
+					<EntryList>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_d" ID="{92F50A7F-F9C9-400E-A61C-28316F09C429}" />
+								<PathElementRef Name="sltb0z10_131010" ID="{DD5C16F8-C3AC-43A1-97AF-066D00435CE6}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_131010_0_ened" ID="{2BB5B9B5-6418-4529-8D95-5E7405B57108}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_d" ID="{92F50A7F-F9C9-400E-A61C-28316F09C429}" />
+								<PathElementRef Name="sltb0z10_3a1010" ID="{9785A3A2-9478-490E-A1F6-C421B04DB0E4}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_3a1010_0_ened" ID="{3BA059A3-83A3-4CF1-BD8C-CDD471075086}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_c" ID="{EEF90F2F-97E1-49F1-984A-19E90CF05D29}" />
+								<PathElementRef Name="sltb0z10_3b1010" ID="{C47E8606-4AAA-493E-B57A-ED2FB6C8FC7D}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_3b1010_0_enec" ID="{3FBE7264-EE08-4E29-A9AD-C6AF5D99B2F1}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_d" ID="{92F50A7F-F9C9-400E-A61C-28316F09C429}" />
+								<PathElementRef Name="sltb0z10_3d1010" ID="{FF6B1685-C90D-4B4D-87A8-D3352785DF64}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_3d1010_0_ened" ID="{CBEEFB8C-D971-4E34-9875-0C2F68CBDCC3}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_c" ID="{EEF90F2F-97E1-49F1-984A-19E90CF05D29}" />
+								<PathElementRef Name="sltb0z10_3e1010" ID="{32DD7424-2B8E-4273-A442-5F11DB27A01C}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_3e1010_0_enec" ID="{ACE014BF-EEB3-4FFF-8DD6-57EFCDE54229}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_c" ID="{EEF90F2F-97E1-49F1-984A-19E90CF05D29}" />
+								<PathElementRef Name="sltb0z10_3c1010" ID="{44BB51F0-BE2E-45DC-833F-68A125F9E470}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_3c1010_0_enec" ID="{5B81319C-79FA-4874-B5FD-D22DF92270B7}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl0z00_111010" ID="{9E43AF0E-640C-4E12-AFF1-78F38F29111E}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl0z00_111010" ID="{B868DCBF-BAFA-4BAD-B29D-AF3E1F33B15A}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl0z00_111210" ID="{1174ABD6-B992-4AA6-BD8A-6CA74A28C018}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl0z00_111210" ID="{9B455A51-6534-4451-82CA-8A27D80A17BD}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl0z00_111310" ID="{069E1460-3C4F-41F1-BBE5-B880730B893C}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl0z00_111310" ID="{3C9E22C6-4017-4BEC-802E-572A57873C0B}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl0z00_111410" ID="{9BAC19C0-7A8A-4BE0-9090-CFCC91F721BE}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl0z00_111410" ID="{C35C7F23-BED4-4385-8175-77C3894B765F}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl0z00_111510" ID="{4BFE3E76-883C-499F-92A4-47E07A0AC4B0}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl0z00_111510" ID="{6B8C0949-4634-4772-889D-2E5AEF4AA125}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl0z00_111610" ID="{A9D04E4A-4863-4A9A-BCA7-6D6D0600EC2A}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl0z00_111610" ID="{DE63E2EC-1280-43EE-BF05-3D4A9040D7D4}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl0z00_111710" ID="{DCFA3D55-0D79-4A24-B17D-84D7054AD125}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl0z00_111710" ID="{B566280E-52A4-4C7E-9057-3468B6B48D9B}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl0z00_111810" ID="{EF4157CE-A465-4F05-8BEB-A596D622C5F4}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl0z00_111810" ID="{79FBC8BF-B3D6-4C80-9852-04427B541531}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_a" ID="{28013FAD-FAD8-4A92-AD6F-64EFE2F259F3}" />
+								<PathElementRef Name="stct_prisoner0000" ID="{40AFEE44-68C1-495F-B1C5-CB506B479DBA}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_181010_0_enea" ID="{CE4C8DE4-BEC8-478F-BD80-4A5F72AFC501}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_a" ID="{28013FAD-FAD8-4A92-AD6F-64EFE2F259F3}" />
+								<PathElementRef Name="stct_prisoner0001" ID="{DC5ECF6E-D8BC-4773-9210-9C1247535A30}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_4q1010_0_enea" ID="{EB498DFB-36BF-4148-A0FB-038A5BF4F466}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_c" ID="{EEF90F2F-97E1-49F1-984A-19E90CF05D29}" />
+								<PathElementRef Name="stct_prisoner0002" ID="{656D42BA-F48C-4FAF-983C-C3A989524884}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_4r1010_0_enec" ID="{E5F45B38-7DB9-43D6-9747-807DFFC4E2D1}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_a" ID="{28013FAD-FAD8-4A92-AD6F-64EFE2F259F3}" />
+								<PathElementRef Name="stct_prisoner0003" ID="{7C8E9633-4603-4C4A-AA22-674704BE0446}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_4s1010_0_enea" ID="{DC63B7B5-EC00-49C0-9321-7AE25B3342B0}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_c" ID="{EEF90F2F-97E1-49F1-984A-19E90CF05D29}" />
+								<PathElementRef Name="stct_prisoner0004" ID="{FA3822B0-18F1-46A7-B255-2FDDCEB02E7D}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_4t1010_0_enec" ID="{00461B96-D726-4B71-AB76-4D053B7A147E}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_a" ID="{28013FAD-FAD8-4A92-AD6F-64EFE2F259F3}" />
+								<PathElementRef Name="stct_prisoner0005" ID="{5EC6C7EA-A1FD-421F-A6FD-EBBB9C21F618}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_4u1010_0_enea" ID="{A3322C0E-A953-4EBE-BC54-DEF0AE6EBE80}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_c" ID="{EEF90F2F-97E1-49F1-984A-19E90CF05D29}" />
+								<PathElementRef Name="stct_prisoner0006" ID="{45730B73-50BD-4C5D-9311-8DA273DE5838}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_4v1010_0_enec" ID="{6A3F8C33-02D1-46B8-8924-EDF82EBC3F3E}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_c" ID="{EEF90F2F-97E1-49F1-984A-19E90CF05D29}" />
+								<PathElementRef Name="stct_prisoner0007" ID="{AB002BDC-7FA9-415E-97CA-6B76265274BD}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_4w1010_0_enec" ID="{8E641497-9303-4A74-91AA-9E65F9A7F376}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_d" ID="{92F50A7F-F9C9-400E-A61C-28316F09C429}" />
+								<PathElementRef Name="stct_prisoner0008" ID="{12302070-2FB3-4868-B175-8CC61A5FA5EC}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_4y1010_0_enec" ID="{7F41C3B5-AE12-48B8-8463-4AD442D51E36}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_c" ID="{EEF90F2F-97E1-49F1-984A-19E90CF05D29}" />
+								<PathElementRef Name="stct_prisoner0009" ID="{7F3B9389-6316-4F48-A151-0D9C2E663E18}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_4x1010_0_ened" ID="{53CD2161-C7E7-4FE5-A9CF-F80173D5A21F}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_c" ID="{EEF90F2F-97E1-49F1-984A-19E90CF05D29}" />
+								<PathElementRef Name="stct_prisoner0010" ID="{EF8F3250-E1F2-4333-BCC3-7D01942D06C2}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_4z1010_0_enec" ID="{EEBBA583-496D-4F38-B780-2B0299260370}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="ene_d" ID="{92F50A7F-F9C9-400E-A61C-28316F09C429}" />
+								<PathElementRef Name="stct_prisoner0011" ID="{94A3AF7E-69A4-4E81-9B3D-27C91A1F49B6}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="SLTB0z10_501010_0_ened" ID="{201CD005-E64C-4383-9B6D-98920951C42D}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="pprg1001_5e1010" ID="{D4D5B4A2-A1A9-44BA-97E3-E4608A0A4F79}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="pprg1001_5e1010" ID="{6965B356-4F1D-4F0F-90F6-4003C3800AA1}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="pprg1001_5f1010" ID="{D9C1A2D7-D7D2-463C-9D4A-85FDD5F1C56C}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="pprg1001_5f1010" ID="{75FFED54-385C-4E8A-A1AF-51CD1877418E}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="pprg1012_191010" ID="{A6278B17-385C-44CF-A101-3D6026D0B8D0}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="pprg1012_191010" ID="{783C347F-6F9E-4FA7-91D0-3C5663DEA77A}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="pprg1012_1a1010" ID="{3111D1FE-EECB-4EE0-A47A-856472C50C66}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="pprg1012_1a1010" ID="{ED202092-5D1A-458F-B1F4-1DB181C83418}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="pprg1001_3u1010" ID="{AC61EB3D-CE26-47C3-AFBC-130A2004BB7A}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="pprg1001_3u1010" ID="{6320BD19-24B2-4FCF-9167-D60586E43FAE}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="rdps1000_121510" ID="{08B41BEA-38BC-496E-807B-C236111F1913}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="rdps1000_121510" ID="{8E76694E-6BE7-4E02-B41B-642F4A9FA084}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="rdps1000_131510" ID="{AA078AC3-901F-4AD6-83C1-DC37179296C3}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="rdps1000_131510" ID="{E4C187CD-025A-4ED2-936A-55E7336DA93A}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="rdps2000_151210" ID="{31DDFBAE-7BA6-4C5B-BCEF-609FE8A731BE}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="rdps2000_151210" ID="{3FE237F9-650A-407E-B281-0278D5B43C1C}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="hostage_a" ID="{A77B549F-4EDC-4B93-A00B-3E5B7C60FD00}" />
+								<PathElementRef Name="prsn1000_2a1010" ID="{47831E98-C271-4E21-80CD-5543A862D3EF}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="prsn1000_2a1010" ID="{BB6AA63F-A292-43AB-8390-57D8C9168303}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="hostage_a" ID="{A77B549F-4EDC-4B93-A00B-3E5B7C60FD00}" />
+								<PathElementRef Name="prsn1000_2e1010" ID="{A8088168-FFAD-4808-A237-B552BC7AA7B3}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="prsn1000_2e1010" ID="{D477DE33-BDD0-4458-8C92-7B393071E444}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="hostage_a" ID="{A77B549F-4EDC-4B93-A00B-3E5B7C60FD00}" />
+								<PathElementRef Name="prsn1000_2i1010" ID="{74D431FF-5622-4410-B9A2-02DAEE6C02BF}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="prsn1000_2i1010" ID="{AF0A0B3E-743A-4E27-B685-67A883983371}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="hostage_a" ID="{A77B549F-4EDC-4B93-A00B-3E5B7C60FD00}" />
+								<PathElementRef Name="prsn1000_2m1010" ID="{30F04402-6AA5-4066-8C77-78B1E6AC50D1}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="prsn1000_2m1010" ID="{DDFB9928-264B-49FA-9DCE-BF23E000FEBF}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="hostage_a" ID="{A77B549F-4EDC-4B93-A00B-3E5B7C60FD00}" />
+								<PathElementRef Name="prsn1000_261010" ID="{87E17D28-7C05-4AB9-975D-8667B3638CC3}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="prsn1000_261010" ID="{6165D00F-7AF8-4175-B0FB-D6D41FA5A2B4}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl1000_181010" ID="{69DD739D-F5A3-45F4-B5FD-511A8238545D}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl1000_181010" ID="{1EAC581B-6476-43AE-9B50-178A394919CB}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl3000_131010" ID="{2FADEB4E-A016-4AC5-824E-4C1535180EB6}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl3000_131010" ID="{D49DC103-13E2-4A6A-8D83-1C37795BB329}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl3000_141010" ID="{E1B82041-C87E-43D5-AAD7-77AD9228EE73}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl3000_141010" ID="{5674EE96-8322-4C50-BFA2-FB3CF5452CB8}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl3000_1c1010" ID="{482FD712-242C-4C4F-9213-B7BE24C9F177}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl3000_1c1010" ID="{49759647-6EA6-4A22-87E7-44137EC065FB}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl3000_1j1010" ID="{15F26A6E-9C4F-4A52-A83B-D8BA0B7A0D92}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl3000_1j1010" ID="{566F4E73-9A14-4772-9A0B-D351EE2F6D58}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl3000_1o1010" ID="{9256B9DF-9D3B-4B56-99F9-F0A10DD268BD}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl3000_1o1010" ID="{F97184BC-8C72-4435-98D0-5CB58847E3EA}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl1000_1c1010" ID="{BDBDF451-3D81-4B40-9A00-9A499CC1B1B7}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl1000_1c1010" ID="{0F25FDB9-4137-4AE6-8E27-D15586933314}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl1000_1b1010" ID="{BA22CDA4-32E1-4016-B8CD-B081950D2839}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl1000_1b1010" ID="{90BC41A3-520B-41AC-A539-CE6A9EA3685C}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl1000_1a1010" ID="{720ED1AA-A4C9-45E5-926C-655497264A2F}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl1000_1a1010" ID="{512432F3-C5A5-4365-A7D6-4166226FB499}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl1000_191010" ID="{D636E6D8-14C8-45DF-8FD5-8B7B158DB249}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl1000_191010" ID="{2B7E55E1-CF4E-4884-A011-062A1875E48E}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl1000_1e1010" ID="{49909A9D-62AC-4F33-B138-79D11C69613B}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl1000_1e1010" ID="{612710B5-1F2D-4591-B3E5-535A83ABA7F1}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl1000_1f1010" ID="{F025F06B-E5EC-43F4-9865-4ECEFE4C8D34}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl1000_1f1010" ID="{00EAB565-ACFE-49E8-9660-81E19B68C952}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl1000_1j1010" ID="{A450C1DD-B0E7-418D-B9BB-C3900715B97F}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl1000_1j1010" ID="{38A3719A-0D27-4D36-9F6A-1CD7BF274BF5}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl1000_1k1010" ID="{DF2BBB99-40D7-4170-B166-50816DD29CCD}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl1000_1k1010" ID="{AAA6D609-ED40-4423-A589-F6A4B8BBCA98}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl1000_1k2010" ID="{8E8AFA6B-A3BF-4C5C-BA8B-0830B76CB558}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl1000_1k2010" ID="{0F1FE360-EDB9-4ED2-9F2B-F3DBBC232CA5}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl1000_1l2010" ID="{C0CF715A-2AD6-4AAA-B097-7F5DA5198682}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl1000_1l2010" ID="{74DE3C67-2E27-410F-A198-AA585223D917}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl1000_1m2010" ID="{775301FA-4FF2-4D2E-BC28-09151611D5E3}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl1000_1m2010" ID="{C675B566-878D-4E5B-9742-C229BB7D61BC}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="intl1000_1n2010" ID="{4DCC1F27-7207-46FC-AD45-1E011D54AD34}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="intl1000_1n2010" ID="{EEF11659-ABE1-467D-84EE-938B7B88AF64}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+								<PathElementRef Name="abb_game_con" ID="{A8374368-EAC0-49C0-9E1E-CE9E4BD25A9D}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="Abb_GameOver" ID="{38BD6E6E-F71E-4C2C-B6C4-67527EB88246}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+						<Entry>
+							<Path>
+								<PathElementRef Name="idroid" ID="{F53FF718-7705-4162-A61B-36AB5B95D1BA}" />
+								<PathElementRef Name="idroid13103_supportonRoute" ID="{CF72AABD-B505-4F6E-A331-5C79E3AF6389}" />
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="idrd1000_1g1010_0_idroid" ID="{9FBC6C19-C739-44FE-BA99-6D02FA8C0B22}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" Platform="Linked" />
+							</AudioNodeInfo>
+						</Entry>
+					</EntryList>
+				</DialogueEvent>
+			</ChildrenList>
+		</WorkUnit>
+	</DynamicDialogue>
+</WwiseDocument>

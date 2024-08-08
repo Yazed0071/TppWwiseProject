@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FC209C0D-2DAF-43A8-B3F2-B90EEC9C5097}" SchemaVersion="62">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{FC209C0D-2DAF-43A8-B3F2-B90EEC9C5097}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="bgm_phase" ID="{66DA0845-06B2-4834-BAB3-B55EC72CEB97}" ShortID="470717899">
+					<ChildrenList>
+						<SwitchGroup Name="bgm_phase_reflex" ID="{336F40C6-7467-4163-AC01-0550E22628C5}">
+							<ChildrenList>
+								<Switch Name="bgm_phase_reflex_off" ID="{BC7777F7-A91C-4C4F-A5FD-3B68EF567D15}" />
+								<Switch Name="bgm_phase_reflex_on" ID="{529C3FA8-852A-4E1E-BFD0-BC2F19F4D6AE}" />
+							</ChildrenList>
+						</SwitchGroup>
+						<SwitchGroup Name="bgm_phase_time" ID="{A81EA1C5-2B90-4AF9-9E40-E5D7BCFD1669}">
+							<ChildrenList>
+								<Switch Name="bgm_phase_time_day" ID="{B43939FC-B6B8-4988-88E1-786AD284D2B2}" />
+								<Switch Name="bgm_phase_time_night" ID="{6A018CC9-3682-4ADD-AB10-6679DC365BD2}" />
+							</ChildrenList>
+						</SwitchGroup>
+						<SwitchGroup Name="bgm_phase_sn_level" ID="{B7F5E37E-5DB4-4F3B-8784-946C88070F3E}">
+							<ChildrenList>
+								<Switch Name="bgm_phase_sn_level_01" ID="{0A615315-C5B7-48CA-82E7-9B20D9DFC2B4}" />
+								<Switch Name="bgm_phase_sn_level_02" ID="{D397B057-F819-4808-9EE6-30E30DACA440}" />
+								<Switch Name="bgm_phase_sn_level_03" ID="{1DE41CA2-7BDF-499D-B00E-CC3DB45316BD}" />
+							</ChildrenList>
+						</SwitchGroup>
+						<SwitchGroup Name="bgm_phase_life" ID="{79DA6C00-7A83-48C9-9602-4720F1C9FBD8}">
+							<ChildrenList>
+								<Switch Name="bgm_phase_life_normal" ID="{5E3A0F84-652A-4E8E-A685-D608749145B0}" />
+								<Switch Name="bgm_phase_life_dying" ID="{0BB128A2-6E9C-417C-A566-7A71150D2911}" />
+							</ChildrenList>
+						</SwitchGroup>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="bgm" ID="{A5F4ECA6-61B9-4741-B2D5-827307E0A37D}" ShortID="589215805" />
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

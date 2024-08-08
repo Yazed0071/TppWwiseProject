@@ -1,0 +1,119 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	434268486	chara			\Default Work Unit\chara	
+	505863753	a0ej00mu			\Default Work Unit\a0ej00mu	
+	1101300679	bgm_phase_state			\Default Work Unit\bgm_phase_state	
+	3703962904	condition			\Default Work Unit\condition	
+
+State	ID	Name	State Group			Notes
+	469355457	ocelot	chara			
+	748895195	None	chara			
+	1460440609	ene_a	chara			
+	1460440610	ene_b	chara			
+	1460440611	ene_c	chara			
+	1460440612	ene_d	chara			
+	1842327993	pilot	chara			
+	1907145409	hostage_d	chara			
+	1907145412	hostage_a	chara			
+	1907145414	hostage_c	chara			
+	1907145415	hostage_b	chara			
+	3140691722	miller	chara			
+	3299004024	idroid	chara			
+	3786002599	cdtk	chara			
+	748895195	None	a0ej00mu			
+	2431786863	scope	a0ej00mu			
+	73465350	bgm_phase_ct_nt	bgm_phase_state			
+	261399653	bgm_phase_neutral	bgm_phase_state			
+	748895195	None	bgm_phase_state			
+	1502108120	bgm_phase_al_outr	bgm_phase_state			
+	1540794026	bgm_phase_al_es	bgm_phase_state			
+	3147827810	bgm_phase_lost	bgm_phase_state			
+	3191656791	bgm_phase_sn	bgm_phase_state			
+	3460098589	bgm_phase_ct	bgm_phase_state			
+	3493654009	bgm_phase_ev	bgm_phase_state			
+	3644652494	bgm_phase_nt	bgm_phase_state			
+	10486637	intl0z00_111210	condition			
+	25977022	intl0z00_141010	condition			
+	172964796	idroid13103_supportonRoute	condition			
+	223499145	prsn1000_2m1010	condition			
+	245518029	prsn1000_2i1010	condition			
+	338461256	intl1000_1l2010	condition			
+	369633173	prsn1000_2a1010	condition			
+	523582642	abb_game_con	condition			
+	583527111	pprg1012_1a1010	condition			
+	748895195	None	condition			
+	829579011	sltb0z10_3d1010	condition			
+	860935620	sltb0z10_3c1010	condition			
+	924646531	intl1000_1f1010	condition			
+	956003140	intl1000_1a1010	condition			
+	988101913	intl0z00_131010	condition			
+	996859134	intl1000_1k1010	condition			
+	1010120797	intl0z00_171010	condition			
+	1355489067	rdps1000_131510	condition			
+	1362117988	pprg1001_5f1010	condition			
+	1369045534	sltb0z10_131010	condition			
+	1383903153	prsn1000_2e1010	condition			
+	1388717708	intl1000_191010	condition			
+	1520088806	sltb0z10_3a1010	condition			
+	1615156326	intl1000_1c1010	condition			
+	1617355235	intl1000_1k2010	condition			
+	1637755714	intl0z00_181010	condition			
+	1640446752	intl1000_1e1010	condition			
+	1688395600	intl0z00_111310	condition			
+	1822763711	intl0z00_111410	condition			
+	1890021186	intl0z00_111510	condition			
+	1918128191	intl1000_1j1010	condition			
+	1990201338	rdps1000_121510	condition			
+	2366997730	prsn1000_261010	condition			
+	2462537359	pprg1012_191010	condition			
+	2513570306	sltb0z10_3e1010	condition			
+	2658237737	intl1000_1m2010	condition			
+	2846870637	intl1000_181010	condition			
+	3071286416	intl3000_1c1010	condition			
+	3073309127	intl1000_1b1010	condition			
+	3267115879	intl3000_141010	condition			
+	3267246823	pprg1001_5e1010	condition			
+	3389823689	intl3000_1j1010	condition			
+	3531049216	stct_prisoner0008	condition			
+	3531049217	stct_prisoner0009	condition			
+	3531049224	stct_prisoner0000	condition			
+	3531049225	stct_prisoner0001	condition			
+	3531049226	stct_prisoner0002	condition			
+	3531049227	stct_prisoner0003	condition			
+	3531049228	stct_prisoner0004	condition			
+	3531049229	stct_prisoner0005	condition			
+	3531049230	stct_prisoner0006	condition			
+	3531049231	stct_prisoner0007	condition			
+	3547826938	stct_prisoner0011	condition			
+	3547826939	stct_prisoner0010	condition			
+	3833731174	intl1000_2l3010	condition			
+	3834106451	intl0z00_111810	condition			
+	3855822021	intl1000_1q2010	condition			
+	3891437097	rdps2000_151210	condition			
+	3912107638	intl1000_1n2010	condition			
+	3945305445	sltb0z10_3b1010	condition			
+	3981685440	intl3000_131010	condition			
+	4103828347	intl0z00_111010	condition			
+	4171924497	intl0z00_111610	condition			
+	4239182132	intl0z00_111710	condition			
+	4248731715	intl0z00_191010	condition			
+	4252216965	pprg1001_3u1010	condition			
+	4292613804	intl3000_1o1010	condition			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	51212236	alternative google bed bus			\Default Work Unit\Master Audio Bus\a0nwuqik\alternative google bed bus	
+	388974786	axfywjh			\Default Work Unit\Master Audio Bus\axfywjh	
+	505863753	a0ej00mu			\Default Work Unit\Master Audio Bus\a0ej00mu	
+	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
+	1447055939	xlm0oh			\Default Work Unit\Master Audio Bus\axfywjh\nizijb\a0ed468\xlm0oh	
+	1638820477	a0ed468			\Default Work Unit\Master Audio Bus\axfywjh\nizijb\a0ed468	
+	1977529657	music_main_bus			\Default Work Unit\Master Audio Bus\music_main_bus	
+	2280567533	nizijb			\Default Work Unit\Master Audio Bus\axfywjh\nizijb	
+	2652736502	a1uekv97			\Default Work Unit\Master Audio Bus\axfywjh\nizijb\a1uekv97	
+	3353371769	music_system_bus			\Default Work Unit\Master Audio Bus\music_system_bus	
+	3600197733	a0nwuqik			\Default Work Unit\Master Audio Bus\a0nwuqik	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	4052237701	cjlhqc_			\Default Work Unit\Master Audio Bus\a0nwuqik\cjlhqc_	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	1132214669	interior			\Default Work Unit\Master Audio Bus\a0nwuqik\cjlhqc_\interior	
+

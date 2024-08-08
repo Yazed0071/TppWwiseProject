@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AF79D7CE-3980-4B02-B6F9-733E7120165D}" SchemaVersion="62">
+	<Events>
+		<WorkUnit Name="s13103_MusicEvents" ID="{AF79D7CE-3980-4B02-B6F9-733E7120165D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="bgm_phase_events" ID="{BF061022-2243-46B6-BCD2-EEA7865F6D19}" ShortID="1009633172">
+					<ChildrenList>
+						<Event Name="Play_bgm_s13103_phase" ID="{2E22C8C9-585D-4AE2-9C20-9FFA51508A55}">
+							<ChildrenList>
+								<Action Name="Play" ID="{96E22D9C-E665-4E7E-9174-9B57579DB277}" ShortID="203429197" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{601731EB-F0EB-46BE-B80B-B9A84CCC93AB}" Global="false">
+											<ObjectRef Name="msc_bgm_phase" ID="{8E507332-A13F-4060-A994-2BD69BB855E6}" WorkUnitID="{95CD71DE-92BD-477F-AEF7-15016851A725}" />
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="bgm_events" ID="{0DA11F37-9C82-49E4-B5C0-0AD923740900}" ShortID="374108512">
+					<ChildrenList>
+						<Event Name="Stop_bgm_s13103_credits_ed" ID="{4E436244-A5E0-4A23-86C6-34AEA04F8BE7}">
+							<ChildrenList>
+								<Action Name="Stop" ID="{701CF055-EC66-49F8-9551-717F42CE6932}" ShortID="515218429" Type="Stop" Scope="One" Global="false">
+									<PropertyList>
+										<Property Name="FadeTime" Type="Real64" Value="3" />
+									</PropertyList>
+									<ElementList>
+										<Element ID="{31392BF8-8B39-4BF9-925C-6FA9F8BCB3E7}" Global="false">
+											<ObjectRef Name="bgm_s13103_credits_ed" ID="{65495DC2-1B98-4D9E-855B-8117B78DF7DA}" WorkUnitID="{95CD71DE-92BD-477F-AEF7-15016851A725}" />
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_bgm_s13103_jingle_op" ID="{2F360045-2996-468E-83D5-1C74D60859DA}">
+							<ChildrenList>
+								<Action Name="Play" ID="{626A0B6F-273E-4CCF-BD2F-D40E9F5E31B6}" ShortID="427347324" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{A6C2EFD7-A1EC-4695-8E4C-A811A99F2BE0}" Global="false">
+											<ObjectRef Name="bgm_TelopJingle_op" ID="{7F4702B1-3027-4307-8EFB-5966C4F5D810}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" />
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_bgm_s13103_jingle_op" ID="{412435C4-226D-4AA1-B69A-B09A36895AFB}">
+							<ChildrenList>
+								<Action Name="Stop" ID="{D36377A2-D6CB-459E-B8AC-BAC12920A6EF}" ShortID="419641866" Type="Stop" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{1042C20D-D0B5-43D0-A166-C1D00AC4F6F5}" Global="false">
+											<ObjectRef Name="bgm_TelopJingle_op" ID="{7F4702B1-3027-4307-8EFB-5966C4F5D810}" WorkUnitID="{B4B80FD3-6803-44EA-B5E6-FA013A325D84}" />
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_bgm_s13103_credits_ed" ID="{9EA429F5-4494-41CB-8DB9-1D21422D471B}">
+							<ChildrenList>
+								<Action Name="Play" ID="{14C2441D-9565-41E4-8E4D-E6E1953BD79F}" ShortID="710859292" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{259D1744-4235-4164-B4A9-285A3F45276D}" Global="false">
+											<ObjectRef Name="bgm_s13103_credits_ed" ID="{65495DC2-1B98-4D9E-855B-8117B78DF7DA}" WorkUnitID="{95CD71DE-92BD-477F-AEF7-15016851A725}" />
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_bgm_s13103_PT" ID="{125ACCE2-F6BA-4226-9311-6C34BBFB9E61}">
+							<ChildrenList>
+								<Action Name="Play" ID="{11CC4DF7-031E-4646-8AE7-63850B1C2A7E}" ShortID="839688915" Type="Play" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{ECBC0943-9662-4301-B79E-6079E159CD70}" Global="false">
+											<ObjectRef Name="msp_bgm_PT" ID="{D9E0FB2D-DA6E-4EB8-8BF2-E1736716E921}" WorkUnitID="{95CD71DE-92BD-477F-AEF7-15016851A725}" />
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Stop_bgm_s13103_PT" ID="{E157BAA0-E8BC-4325-84EA-4308AE200BA1}">
+							<ChildrenList>
+								<Action Name="Stop" ID="{E6501601-FB95-42B5-B3C8-2870BA069038}" ShortID="58734188" Type="Stop" Scope="One" Global="false">
+									<ElementList>
+										<Element ID="{4B492C04-E808-42C0-AF28-CABF6654FB39}" Global="false">
+											<ObjectRef Name="msp_bgm_PT" ID="{D9E0FB2D-DA6E-4EB8-8BF2-E1736716E921}" WorkUnitID="{95CD71DE-92BD-477F-AEF7-15016851A725}" />
+										</Element>
+									</ElementList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

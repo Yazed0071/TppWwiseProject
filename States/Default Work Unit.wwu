@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{98A676D1-96A6-41E4-8064-0D55F5B2BAA3}" SchemaVersion="62">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{98A676D1-96A6-41E4-8064-0D55F5B2BAA3}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="chara" ID="{0ED7C265-CEF9-4077-A102-AC0FA50AC316}">
+					<ChildrenList>
+						<State Name="None" ID="{6784A9DB-7ABB-4AFB-B713-51CCA272BAC5}" />
+						<State Name="ene_a" ID="{28013FAD-FAD8-4A92-AD6F-64EFE2F259F3}" />
+						<State Name="ene_b" ID="{376715C7-85B4-4538-BABA-861327D76202}" />
+						<State Name="ene_c" ID="{EEF90F2F-97E1-49F1-984A-19E90CF05D29}" />
+						<State Name="ene_d" ID="{92F50A7F-F9C9-400E-A61C-28316F09C429}" />
+						<State Name="miller" ID="{75F31376-73E2-4F2B-B808-3703476E3AC9}" />
+						<State Name="ocelot" ID="{11E66FAE-95B5-4784-B7CC-FD95FA059BCC}" />
+						<State Name="pilot" ID="{4A97B3DB-BA13-4204-A1C5-5C4DDCE63235}" />
+						<State Name="cdtk" ID="{8A1D9304-1E1E-49D0-8DF5-A061C3056905}" />
+						<State Name="hostage_a" ID="{A77B549F-4EDC-4B93-A00B-3E5B7C60FD00}" />
+						<State Name="hostage_b" ID="{3D2F8DE6-F894-473F-9A03-EC033C2FAB3E}" />
+						<State Name="hostage_c" ID="{B629C67D-4E9D-4308-9892-EE2BD8B5490D}" />
+						<State Name="hostage_d" ID="{DBB807C7-7830-4B91-90C4-94C940A2CF72}" />
+						<State Name="idroid" ID="{F53FF718-7705-4162-A61B-36AB5B95D1BA}" />
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="condition" ID="{4D3F32FF-BDDA-43C9-B27B-4BC6ED84F57F}">
+					<ChildrenList>
+						<State Name="None" ID="{153D02AE-2824-4B1D-8D8A-1FD5ACC88138}" />
+						<State Name="sltb0z10_3a1010" ID="{9785A3A2-9478-490E-A1F6-C421B04DB0E4}" />
+						<State Name="sltb0z10_3b1010" ID="{C47E8606-4AAA-493E-B57A-ED2FB6C8FC7D}" />
+						<State Name="sltb0z10_3c1010" ID="{44BB51F0-BE2E-45DC-833F-68A125F9E470}" />
+						<State Name="sltb0z10_3d1010" ID="{FF6B1685-C90D-4B4D-87A8-D3352785DF64}" />
+						<State Name="sltb0z10_3e1010" ID="{32DD7424-2B8E-4273-A442-5F11DB27A01C}" />
+						<State Name="sltb0z10_131010" ID="{DD5C16F8-C3AC-43A1-97AF-066D00435CE6}" />
+						<State Name="intl0z00_111010" ID="{9E43AF0E-640C-4E12-AFF1-78F38F29111E}" />
+						<State Name="intl0z00_111210" ID="{1174ABD6-B992-4AA6-BD8A-6CA74A28C018}" />
+						<State Name="intl0z00_111310" ID="{069E1460-3C4F-41F1-BBE5-B880730B893C}" />
+						<State Name="intl0z00_111410" ID="{9BAC19C0-7A8A-4BE0-9090-CFCC91F721BE}" />
+						<State Name="intl0z00_111510" ID="{4BFE3E76-883C-499F-92A4-47E07A0AC4B0}" />
+						<State Name="intl0z00_111610" ID="{A9D04E4A-4863-4A9A-BCA7-6D6D0600EC2A}" />
+						<State Name="intl0z00_111710" ID="{DCFA3D55-0D79-4A24-B17D-84D7054AD125}" />
+						<State Name="intl0z00_111810" ID="{EF4157CE-A465-4F05-8BEB-A596D622C5F4}" />
+						<State Name="intl0z00_131010" ID="{64006058-6418-4DE6-A029-CD51363AF390}" />
+						<State Name="intl0z00_141010" ID="{C1C6F275-79EE-4A61-A4FE-91D69EE2E21D}" />
+						<State Name="intl0z00_171010" ID="{22C06749-0718-4F8D-82FF-6CD6ACDC952A}" />
+						<State Name="intl0z00_181010" ID="{18BEB537-FD5D-400C-9C0D-74905378D16D}" />
+						<State Name="intl0z00_191010" ID="{CDADFB82-682D-4802-A9E3-D71056BB4376}" />
+						<State Name="intl1000_1q2010" ID="{841FCE37-EE41-46E3-9DDA-1DA0498F5488}" />
+						<State Name="stct_prisoner0000" ID="{40AFEE44-68C1-495F-B1C5-CB506B479DBA}" />
+						<State Name="stct_prisoner0001" ID="{DC5ECF6E-D8BC-4773-9210-9C1247535A30}" />
+						<State Name="stct_prisoner0002" ID="{656D42BA-F48C-4FAF-983C-C3A989524884}" />
+						<State Name="stct_prisoner0003" ID="{7C8E9633-4603-4C4A-AA22-674704BE0446}" />
+						<State Name="stct_prisoner0004" ID="{FA3822B0-18F1-46A7-B255-2FDDCEB02E7D}" />
+						<State Name="stct_prisoner0005" ID="{5EC6C7EA-A1FD-421F-A6FD-EBBB9C21F618}" />
+						<State Name="stct_prisoner0006" ID="{45730B73-50BD-4C5D-9311-8DA273DE5838}" />
+						<State Name="stct_prisoner0007" ID="{AB002BDC-7FA9-415E-97CA-6B76265274BD}" />
+						<State Name="stct_prisoner0008" ID="{12302070-2FB3-4868-B175-8CC61A5FA5EC}" />
+						<State Name="stct_prisoner0009" ID="{7F3B9389-6316-4F48-A151-0D9C2E663E18}" />
+						<State Name="stct_prisoner0010" ID="{EF8F3250-E1F2-4333-BCC3-7D01942D06C2}" />
+						<State Name="stct_prisoner0011" ID="{94A3AF7E-69A4-4E81-9B3D-27C91A1F49B6}" />
+						<State Name="pprg1001_5e1010" ID="{D4D5B4A2-A1A9-44BA-97E3-E4608A0A4F79}" />
+						<State Name="pprg1001_5f1010" ID="{D9C1A2D7-D7D2-463C-9D4A-85FDD5F1C56C}" />
+						<State Name="pprg1012_191010" ID="{A6278B17-385C-44CF-A101-3D6026D0B8D0}" />
+						<State Name="pprg1012_1a1010" ID="{3111D1FE-EECB-4EE0-A47A-856472C50C66}" />
+						<State Name="pprg1001_3u1010" ID="{AC61EB3D-CE26-47C3-AFBC-130A2004BB7A}" />
+						<State Name="rdps1000_121510" ID="{08B41BEA-38BC-496E-807B-C236111F1913}" />
+						<State Name="rdps1000_131510" ID="{AA078AC3-901F-4AD6-83C1-DC37179296C3}" />
+						<State Name="rdps2000_151210" ID="{31DDFBAE-7BA6-4C5B-BCEF-609FE8A731BE}" />
+						<State Name="prsn1000_2a1010" ID="{47831E98-C271-4E21-80CD-5543A862D3EF}" />
+						<State Name="prsn1000_2e1010" ID="{A8088168-FFAD-4808-A237-B552BC7AA7B3}" />
+						<State Name="prsn1000_2i1010" ID="{74D431FF-5622-4410-B9A2-02DAEE6C02BF}" />
+						<State Name="prsn1000_2m1010" ID="{30F04402-6AA5-4066-8C77-78B1E6AC50D1}" />
+						<State Name="prsn1000_261010" ID="{87E17D28-7C05-4AB9-975D-8667B3638CC3}" />
+						<State Name="intl1000_181010" ID="{69DD739D-F5A3-45F4-B5FD-511A8238545D}" />
+						<State Name="intl3000_131010" ID="{2FADEB4E-A016-4AC5-824E-4C1535180EB6}" />
+						<State Name="intl3000_141010" ID="{E1B82041-C87E-43D5-AAD7-77AD9228EE73}" />
+						<State Name="intl3000_1c1010" ID="{482FD712-242C-4C4F-9213-B7BE24C9F177}" />
+						<State Name="intl3000_1j1010" ID="{15F26A6E-9C4F-4A52-A83B-D8BA0B7A0D92}" />
+						<State Name="intl3000_1o1010" ID="{9256B9DF-9D3B-4B56-99F9-F0A10DD268BD}" />
+						<State Name="intl1000_1c1010" ID="{BDBDF451-3D81-4B40-9A00-9A499CC1B1B7}" />
+						<State Name="intl1000_1b1010" ID="{BA22CDA4-32E1-4016-B8CD-B081950D2839}" />
+						<State Name="intl1000_1a1010" ID="{720ED1AA-A4C9-45E5-926C-655497264A2F}" />
+						<State Name="intl1000_191010" ID="{D636E6D8-14C8-45DF-8FD5-8B7B158DB249}" />
+						<State Name="intl1000_1e1010" ID="{49909A9D-62AC-4F33-B138-79D11C69613B}" />
+						<State Name="intl1000_2l3010" ID="{C555651C-8C29-4869-A385-A371A4C626C9}" />
+						<State Name="intl1000_1f1010" ID="{F025F06B-E5EC-43F4-9865-4ECEFE4C8D34}" />
+						<State Name="intl1000_1j1010" ID="{A450C1DD-B0E7-418D-B9BB-C3900715B97F}" />
+						<State Name="intl1000_1k1010" ID="{DF2BBB99-40D7-4170-B166-50816DD29CCD}" />
+						<State Name="intl1000_1k2010" ID="{8E8AFA6B-A3BF-4C5C-BA8B-0830B76CB558}" />
+						<State Name="intl1000_1l2010" ID="{C0CF715A-2AD6-4AAA-B097-7F5DA5198682}" />
+						<State Name="intl1000_1m2010" ID="{775301FA-4FF2-4D2E-BC28-09151611D5E3}" />
+						<State Name="intl1000_1n2010" ID="{4DCC1F27-7207-46FC-AD45-1E011D54AD34}" />
+						<State Name="abb_game_con" ID="{A8374368-EAC0-49C0-9E1E-CE9E4BD25A9D}" />
+						<State Name="idroid13103_supportonRoute" ID="{CF72AABD-B505-4F6E-A331-5C79E3AF6389}" />
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="a0ej00mu" ID="{9D1D5FB6-C920-48AC-AC22-4A068BE33DAE}">
+					<ChildrenList>
+						<State Name="None" ID="{32AB40F4-BC6A-447D-A81F-7F6171F991B8}" />
+						<State Name="scope" ID="{3764DEDF-4819-4066-BAAB-1569293E8801}" />
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="bgm_phase_state" ID="{19967C07-3B0A-4C8E-8876-CE827CD47D60}">
+					<ChildrenList>
+						<State Name="None" ID="{9BBCBD4E-1678-42B4-BED5-279705114668}" />
+						<State Name="bgm_phase_al_es" ID="{9256B88B-DB84-490D-9519-B3B98DB28DCF}" />
+						<State Name="bgm_phase_al_outr" ID="{765AD7A4-6278-4A4C-A4AD-6244675BDE81}" />
+						<State Name="bgm_phase_lost" ID="{A80FE675-3C38-4764-B614-5C521403FAB4}" />
+						<State Name="bgm_phase_ev" ID="{902DAC76-9814-4744-B92C-2DB086AFF014}" />
+						<State Name="bgm_phase_ct_nt" ID="{12601503-0CBF-4408-9283-B0CCDFC9B670}" />
+						<State Name="bgm_phase_ct" ID="{DE1662A0-3850-463E-8718-1CB81BCF9B88}" />
+						<State Name="bgm_phase_nt" ID="{F7FC7C08-F57C-49EE-AC3E-7435931E6B65}" />
+						<State Name="bgm_phase_sn" ID="{E9224F41-B479-41D8-B662-8C89C209AF65}" />
+						<State Name="bgm_phase_neutral" ID="{08F61B60-97D0-422A-B525-DAD16082CB4C}" />
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="None" ID="{9BBCBD4E-1678-42B4-BED5-279705114668}" />
+							<EndState Name="bgm_phase_al_es" ID="{9256B88B-DB84-490D-9519-B3B98DB28DCF}" />
+							<Time>1</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

@@ -1,0 +1,23 @@
+Event	ID	Name			Wwise Object Path	Notes
+	79744744	Play_bgm_s13103_phase			\s13103_MusicEvents\bgm_phase_events\Play_bgm_s13103_phase	
+	573640677	Play_bgm_s13103_credits_ed			\s13103_MusicEvents\bgm_events\Play_bgm_s13103_credits_ed	
+	591131313	Stop_bgm_s13103_PT			\s13103_MusicEvents\bgm_events\Stop_bgm_s13103_PT	
+	1481996523	Stop_bgm_s13103_credits_ed			\s13103_MusicEvents\bgm_events\Stop_bgm_s13103_credits_ed	
+	1541442302	Play_bgm_s13103_jingle_op			\s13103_MusicEvents\bgm_events\Play_bgm_s13103_jingle_op	
+	2459968603	Play_bgm_s13103_PT			\s13103_MusicEvents\bgm_events\Play_bgm_s13103_PT	
+	3205739948	Stop_bgm_s13103_jingle_op			\s13103_MusicEvents\bgm_events\Stop_bgm_s13103_jingle_op	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	19970247	bgm_pazescape_tranision_ToSneakCaution	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\sfx\pazescape_tosneakcaution_a26b90df.wem		\Interactive Music Hierarchy\s13103_music\msc_bgm_phase\mpc_bgm_phase_sneak\bgm_pazescape_transitionto_ToSneakCaution\bgm_pazescape_tranision_ToSneakCaution		369325
+	70841388	bgm_s13103_credits_ed	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\sfx\bgm_s13103_credits_ed_79c18d0d.wem		\Interactive Music Hierarchy\s13103_music\bgm_s13103_credits_ed\bgm_s13103_credits_ed		622728
+	277072139	bgm_pazescape_Evasion	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\sfx\bgm_pazescape_evasion_78ddcfed.wem		\Interactive Music Hierarchy\s13103_music\msc_bgm_phase\mpc_bgm_phase_evasion\bgm_pazescape_Evasion\bgm_pazescape_Evasion		4514946
+	526711377	paz_is_dead	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\sfx\paz_is_dead_1fcfe6c3.wem		\Interactive Music Hierarchy\s13103_music\msc_bgm_phase\mpc_bgm_phase_caution\paz_is_dead\paz_is_dead		3113525
+	566875845	bgm_phase_lowhealth	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\sfx\bgm_phase_lowhealth_15a2d486.wem		\Interactive Music Hierarchy\s13103_music\msc_bgm_phase\mpc_bgm_phase_lowhealth\bgm_phase_lowhealth\bgm_phase_lowhealth		101061
+	588857310	bgm_pazescape_tranision_ToAlert	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\sfx\bgm_pazescape_tranision_toalert_375e1196.wem		\Interactive Music Hierarchy\s13103_music\msc_bgm_phase\mpc_bgm_phase_alert\bgm_pazescape_tranision_ToAlert\bgm_pazescape_tranision_ToAlert		441538
+	600638332	bgm_pazescape_tranision_ToEvasion	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\sfx\bgm_pazescape_tranision_toevasion_89ebe686.wem		\Interactive Music Hierarchy\s13103_music\msc_bgm_phase\mpc_bgm_phase_evasion\bgm_pazescape_tranision_ToEvasion\bgm_pazescape_tranision_ToEvasion		225151
+	631484324	EndGame_	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\sfx\endgame._d6ac4efa.wem		\Interactive Music Hierarchy\s13103_music\msp_bgm_PT\EndGame_\EndGame_		1677645
+	644773678	bgm_pazescape_Clearing	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\sfx\bgm_pazescape_clearing_965d0c31.wem		\Interactive Music Hierarchy\s13103_music\msc_bgm_phase\mpc_bgm_phase_clearing\bgm_pazescape_Clearing\bgm_pazescape_Clearing		1958242
+	858328842	bgm_pazescape_Alert	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\sfx\bgm_pazescape_alert_5df71bc4.wem		\Interactive Music Hierarchy\s13103_music\msc_bgm_phase\mpc_bgm_phase_alert\bgm_pazescape_Alert\bgm_pazescape_Alert		3560139
+	876959968	bgm_pazescape_SneakCaution	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\sfx\bgm_pazescape_sneakcaution_24e0eb53.wem		\Interactive Music Hierarchy\s13103_music\msc_bgm_phase\mpc_bgm_phase_sneak\bgm_pazescape_SneakCaution\bgm_pazescape_SneakCaution		2502964
+	926610950	bgm_TelopJingle_op	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\sfx\bgm_telopjingle_op_a57daeff.wem		\Actor-Mixer Hierarchy\Default Work Unit\bgm\bgm_Parent\s13103_TelopJingle_op\bgm_TelopJingle_op		2217965
+

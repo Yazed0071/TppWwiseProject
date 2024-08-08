@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{241866C0-1C2C-4254-A297-E256F1463BE6}" SchemaVersion="62">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{241866C0-1C2C-4254-A297-E256F1463BE6}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ChildrenList>
+						<Bus Name="a0nwuqik" ID="{7D7119E9-6CE8-44F1-BDE8-4D5DA4D13F87}">
+							<ChildrenList>
+								<Bus Name="alternative google bed bus" ID="{26D6F15F-3FBD-4F83-8C4A-6723F59FF8B7}">
+									<PropertyList>
+										<Property Name="BusVolume" Type="Real64">
+											<ValueList>
+												<Value>-5.5</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+								</Bus>
+								<Bus Name="cjlhqc_" ID="{28E0B920-2E1D-40FE-9D77-87317C969A3B}">
+									<ChildrenList>
+										<AuxBus Name="interior" ID="{4E11A977-50C0-41C2-A431-700643D9BD7D}" />
+									</ChildrenList>
+								</Bus>
+							</ChildrenList>
+						</Bus>
+						<Bus Name="a0ej00mu" ID="{15F6F695-6640-461F-AB84-829D585A3204}" />
+						<Bus Name="axfywjh" ID="{72416A74-69D7-47CA-BF1F-9DFA7F997548}">
+							<ChildrenList>
+								<Bus Name="nizijb" ID="{7F98EDF4-F90E-4F24-9F5C-9C5DEA22F198}">
+									<ChildrenList>
+										<Bus Name="a0ed468" ID="{685043BA-CA78-4740-ACF0-E176C1D83EEB}">
+											<ChildrenList>
+												<Bus Name="xlm0oh" ID="{C1407EF7-D06C-4FC1-BCC8-A8706B8EE029}" />
+											</ChildrenList>
+										</Bus>
+										<Bus Name="a1uekv97" ID="{0720AA6C-97D3-485C-8C92-DF7886CC1EDB}" />
+									</ChildrenList>
+								</Bus>
+							</ChildrenList>
+						</Bus>
+						<Bus Name="music_main_bus" ID="{D258E635-C79F-40D2-A142-2DC38AC77393}" />
+						<Bus Name="music_system_bus" ID="{27AC4BE8-4E3C-4CD5-8284-CBF00C651D88}" />
+					</ChildrenList>
+				</Bus>
+				<Bus Name="Master Secondary Bus" ID="{D2E0BC7E-7B3F-4FFE-A670-FAE02761B631}" />
+				<MotionBus Name="Master Motion Bus" ID="{20A630BA-3398-4676-B927-1004DFE41FD8}" />
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

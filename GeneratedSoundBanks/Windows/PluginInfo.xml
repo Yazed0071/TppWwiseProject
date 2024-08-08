@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginInfo Project="s13103" Platform="Windows" Key="22A3CD1E-4" Motion="false">
+	<Plugins>
+		<Plugin Name="Wwise Delay" ID="6946819" />
+	</Plugins>
+</PluginInfo>

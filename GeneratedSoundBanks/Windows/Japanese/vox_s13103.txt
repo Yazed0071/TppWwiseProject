@@ -1,0 +1,70 @@
+Dialogue Event	ID	Name			Wwise Object Path	Notes
+	894968595	DD_s13103			\Default Work Unit\DD_s13103	
+	2046853485	DB_s13103			\Default Work Unit\DB_s13103	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	103624211	rear_rtpc			\Default Work Unit\rear_rtpc	
+	615015881	obstruction_rtpc			\Default Work Unit\obstruction_rtpc	
+	682029587	a6lm6oo			\Default Work Unit\a6lm6oo	
+	2019519634	a2jo9p0			\Default Work Unit\a2jo9p0	
+	2091825170	occlusion_rtpc			\Default Work Unit\occlusion_rtpc	
+	3849521157	voice_distance			\Default Work Unit\voice_distance	
+
+Effect plug-ins	ID	Name	Type				Notes
+	884633814	Default (Custom)	Wwise Delay			
+	958616307	Default (Custom)	Wwise Delay			
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	9727895	SLTB0z10_3e1010_0_enec	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_3e1010_a57daeff.wem	9727895.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ_0000\SLTB0z10_3e1010_0_enec	
+	22738124	SLTB0z10_501010_0_ened	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_501010_a57daeff.wem	22738124.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ0000_2030\SLTB0z10_501010_0_ened	
+	31628035	SLTB0z10_4v1010_0_enec	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_4v1010_a57daeff.wem	31628035.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ0000_2010\SLTB0z10_4v1010_0_enec	
+	64624185	intl0z00_111610	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl0z00_111610_a57daeff.wem	64624185.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_rtrg0000\intl0z00_111610	
+	76203700	intl1000_1c1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl1000_1c1010_a57daeff.wem	76203700.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Result radio\stct1303_cplt_a\intl1000_1c1010	
+	124622275	SLTB0z10_4w1010_0_enec	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_4w1010_a57daeff.wem	124622275.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ0000_2020\SLTB0z10_4w1010_0_enec	
+	166066328	SLTB0z10_4t1010_0_enec	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_4t1010_a57daeff.wem	166066328.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ0000_2010\SLTB0z10_4t1010_0_enec	
+	220642804	SLTB0z10_4z1010_0_enec	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_4z1010_a57daeff.wem	220642804.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ0000_2030\SLTB0z10_4z1010_0_enec	
+	224594960	intl0z00_111710	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl0z00_111710_a57daeff.wem	224594960.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_rtrg0000\intl0z00_111710	
+	230623415	intl0z00_111010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl0z00_111010_a57daeff.wem	230623415.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_rtrg0000\intl0z00_111010	
+	231824217	intl1000_1e1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl1000_1e1010_a57daeff.wem	231824217.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Result radio\stct1303_cplt_s\intl1000_1e1010	
+	252294098	SLTB0z10_4x1010_0_ened	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_4x1010_a57daeff.wem	252294098.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ0000_2020\SLTB0z10_4x1010_0_ened	
+	254747158	prsn1000_2a1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\prsn1000_2a1010_a57daeff.wem	254747158.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\hostage\hostage_audio_parent\Voice_Lines\ZOZPRSN_0000\prsn1000_2a1010	
+	293639912	SLTB0z10_4y1010_0_enec	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_4y1010_a57daeff.wem	293639912.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ0000_2020\SLTB0z10_4y1010_0_enec	
+	309865567	intl3000_1c1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl3000_1c1010_a57daeff.wem	309865567.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1330_opre0000\intl3000_1c1010	
+	320035012	SLTB0z10_3b1010_0_enec	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_3b1010_a57daeff.wem	320035012.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ_0000\SLTB0z10_3b1010_0_enec	
+	320865302	rdps1000_131510	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\rdps1000_131510_a57daeff.wem	320865302.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_rtrg0002\rdps1000_131510	
+	347818270	pprg1001_5e1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\pprg1001_5e1010_a57daeff.wem	347818270.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_esrg0000\pprg1001_5e1010	
+	352869221	prsn1000_2i1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\prsn1000_2i1010_a57daeff.wem	352869221.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\hostage\hostage_audio_parent\Voice_Lines\ZOZPRSN_0000\prsn1000_2i1010	
+	400990848	SLTB0z10_181010_0_enea	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_181010_a57daeff.wem	400990848.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ0000_2010\SLTB0z10_181010_0_enea	
+	425199921	intl0z00_111510	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl0z00_111510_a57daeff.wem	425199921.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_rtrg0000\intl0z00_111510	
+	425410410	SLTB0z10_131010_0_ened	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_131010_a57daeff.wem	425410410.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ_0000\SLTB0z10_131010_0_ened	
+	436304900	intl1000_191010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl0z00_191010_a57daeff.wem	436304900.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Result radio\stct1303_cplt_d\intl1000_191010	
+	465036326	intl0z00_111410	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl0z00_111410_a57daeff.wem	465036326.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_rtrg0000\intl0z00_111410	
+	527189534	pprg1001_5f1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\pprg1001_5f1010_a57daeff.wem	527189534.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_esrg0000\pprg1001_5f1010	
+	578335868	SLTB0z10_4u1010_0_enea	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_4u1010_a57daeff.wem	578335868.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ0000_2010\SLTB0z10_4u1010_0_enea	
+	630885237	intl1000_1a1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl1000_1a1010_a57daeff.wem	630885237.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Result radio\stct1303_cplt_c\intl1000_1a1010	
+	666940331	Abb_GameOver	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\english(us)\abb_gameover_a57daeff.wem	666940331.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Game over radio and debrief\s3103_gorg_0000\Abb_GameOver	
+	672235972	intl3000_141010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl3000_141010_a57daeff.wem	672235972.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_oprg1003\intl3000_141010	
+	677082227	SLTB0z10_4q1010_0_enea	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_4q1010_a57daeff.wem	677082227.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ0000_2010\SLTB0z10_4q1010_0_enea	
+	681293948	SLTB0z10_4s1010_0_enea	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_4s1010_a57daeff.wem	681293948.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ0000_2010\SLTB0z10_4s1010_0_enea	
+	694986894	pprg1001_3u1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\pprg1001_3u1010_a57daeff.wem	694986894.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_oprg0000\pprg1001_3u1010	
+	707459627	intl0z00_111810	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl0z00_111810_a57daeff.wem	707459627.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_rtrg0000\intl0z00_111810	
+	721176272	intl1000_1b1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl1000_1b1010_a57daeff.wem	721176272.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Result radio\stct1303_cplt_b\intl1000_1b1010	
+	771988385	intl1000_181010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl1000_181010_a57daeff.wem	771988385.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_esrf\intl1000_181010	
+	777403454	intl0z00_111310	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl0z00_111310_a57daeff.wem	777403454.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_rtrg0000\intl0z00_111310	
+	837912418	idrd1000_1g1010_0_idroid	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\idrd1000_1g1010_0_idroid_a57daeff.wem	837912418.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\iDroid\idroid13103_supportonRoute\idrd1000_1g1010_0_idroid	
+	863776556	intl0z00_111210	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl0z00_111210_a57daeff.wem	863776556.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_rtrg0000\intl0z00_111210	
+	875889172	prsn1000_2m1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\prsn1000_2m1010_a57daeff.wem	875889172.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\hostage\hostage_audio_parent\Voice_Lines\ZOZPRSN_0000\prsn1000_2m1010	
+	884624706	rdps2000_151210	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\rdps2000_151210_a57daeff.wem	884624706.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_rtrg0003\rdps2000_151210	
+	886283096	SLTB0z10_3c1010_0_enec	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_3c1010_a57daeff.wem	886283096.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ_0000\SLTB0z10_3c1010_0_enec	
+	888613723	pprg1012_191010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\pprg1012_191010_a57daeff.wem	888613723.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_esrg0001\pprg1012_191010	
+	896661911	SLTB0z10_3d1010_0_ened	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_3d1010_a57daeff.wem	896661911.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ_0000\SLTB0z10_3d1010_0_ened	
+	908513790	intl3000_1j1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl3000_1i1010_a57daeff.wem	908513790.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1330_opre0000\intl3000_1j1010	
+	945386195	rdps1000_121510	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\rdps1000_121510_a57daeff.wem	945386195.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_rtrg0001\rdps1000_121510	
+	974797438	SLTB0z10_4r1010_0_enec	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_4r1010_a57daeff.wem	974797438.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ0000_2010\SLTB0z10_4r1010_0_enec	
+	982902263	pprg1012_1a1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\pprg1012_1a1010_a57daeff.wem	982902263.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_esrg0002\pprg1012_1a1010	
+	1013175640	prsn1000_261010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\prsn1000_261010_a57daeff.wem	1013175640.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\hostage\hostage_audio_parent\Voice_Lines\ZOZPRSN_0000\prsn1000_261010	
+	1014455942	intl3000_1o1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl3000_1o1010_a57daeff.wem	1014455942.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1330_opre0000\intl3000_1o1010	
+	1051495237	prsn1000_2e1010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\prsn1000_2e1010_a57daeff.wem	1051495237.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\hostage\hostage_audio_parent\Voice_Lines\ZOZPRSN_0000\prsn1000_2e1010	
+	1054408349	SLTB0z10_3a1010_0_ened	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\sltb0z10_3a1010_a57daeff.wem	1054408349.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\enemy\enemy_audio_parent\Voice_Lines\ZOZ_0000\SLTB0z10_3a1010_0_ened	
+	1071830936	intl3000_131010	F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\voices\japanese\intl3000_131010_a57daeff.wem	1071830936.wem	\Actor-Mixer Hierarchy\Default Work Unit\vox\radio\radio_parent\Real Time Game Radio\stct1303_oprg1003\intl3000_131010	
+

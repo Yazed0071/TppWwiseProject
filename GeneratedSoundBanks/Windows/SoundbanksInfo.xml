@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" SchemaVersion="9">
+	<RootPaths>
+		<ProjectRoot>F:\MGSVMODS\Wwise Project\s13103\</ProjectRoot>
+		<SourceFilesRoot>F:\MGSVMODS\Wwise Project\s13103\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\MGSVMODS\Wwise Project\s13103\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>F:\MGSVMODS\Wwise Project\s13103\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents>
+		<DialogueEvent Id="2046853485" Name="DB_s13103">
+			<Argument Id="434268486" Name="chara" />
+			<Argument Id="3703962904" Name="condition" />
+		</DialogueEvent>
+		<DialogueEvent Id="894968595" Name="DD_s13103">
+			<Argument Id="434268486" Name="chara" />
+			<Argument Id="3703962904" Name="condition" />
+		</DialogueEvent>
+	</DialogueEvents>
+	<StreamedFiles>
+		<File Id="9727895" Language="Japanese">
+			<ShortName>SLTB0z10_3e1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_3e1010_a57daeff.wem</Path>
+		</File>
+		<File Id="22738124" Language="Japanese">
+			<ShortName>SLTB0z10_501010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_501010_a57daeff.wem</Path>
+		</File>
+		<File Id="31628035" Language="Japanese">
+			<ShortName>SLTB0z10_4v1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_4v1010_a57daeff.wem</Path>
+		</File>
+		<File Id="59314463" Language="English(US)">
+			<ShortName>intl3000_1c1010.wav</ShortName>
+			<Path>voices\english(us)\intl3000_1c1010_a57daeff.wem</Path>
+		</File>
+		<File Id="64624185" Language="Japanese">
+			<ShortName>INTL0z00_111610.wav</ShortName>
+			<Path>voices\japanese\intl0z00_111610_a57daeff.wem</Path>
+		</File>
+		<File Id="70062096" Language="English(US)">
+			<ShortName>prsn1000_2m1010.wav</ShortName>
+			<Path>voices\english(us)\prsn1000_2m1010_a57daeff.wem</Path>
+		</File>
+		<File Id="76203700" Language="Japanese">
+			<ShortName>INTL1000_1c1010.wav</ShortName>
+			<Path>voices\japanese\intl1000_1c1010_a57daeff.wem</Path>
+		</File>
+		<File Id="92660377" Language="English(US)">
+			<ShortName>prsn1000_2e1010.wav</ShortName>
+			<Path>voices\english(us)\prsn1000_2e1010_a57daeff.wem</Path>
+		</File>
+		<File Id="96871802" Language="English(US)">
+			<ShortName>intl3000_141010.wav</ShortName>
+			<Path>voices\english(us)\intl3000_141010_a57daeff.wem</Path>
+		</File>
+		<File Id="101878154" Language="English(US)">
+			<ShortName>SLTB0z10_3c1010_0_enec.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_3c1010_0_enec_a57daeff.wem</Path>
+		</File>
+		<File Id="119982890" Language="English(US)">
+			<ShortName>prsn1000_2a1010.wav</ShortName>
+			<Path>voices\english(us)\prsn1000_2a1010_a57daeff.wem</Path>
+		</File>
+		<File Id="124622275" Language="Japanese">
+			<ShortName>SLTB0z10_4w1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_4w1010_a57daeff.wem</Path>
+		</File>
+		<File Id="151279488" Language="English(US)">
+			<ShortName>intl0z00_111610.wav</ShortName>
+			<Path>voices\english(us)\intl0z00_111610_a57daeff.wem</Path>
+		</File>
+		<File Id="166066328" Language="Japanese">
+			<ShortName>SLTB0z10_4t1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_4t1010_a57daeff.wem</Path>
+		</File>
+		<File Id="172575377" Language="English(US)">
+			<ShortName>pprg1012_1a1010.wav</ShortName>
+			<Path>voices\english(us)\pprg1012_1a1010_a57daeff.wem</Path>
+		</File>
+		<File Id="219021958" Language="English(US)">
+			<ShortName>rdps2000_151210.wav</ShortName>
+			<Path>voices\english(us)\rdps2000_151210_a57daeff.wem</Path>
+		</File>
+		<File Id="220642804" Language="Japanese">
+			<ShortName>SLTB0z10_4z1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_4z1010_a57daeff.wem</Path>
+		</File>
+		<File Id="224594960" Language="Japanese">
+			<ShortName>INTL0z00_111710.wav</ShortName>
+			<Path>voices\japanese\intl0z00_111710_a57daeff.wem</Path>
+		</File>
+		<File Id="227198206" Language="English(US)">
+			<ShortName>intl3000_1o1010.wav</ShortName>
+			<Path>voices\english(us)\intl3000_1o1010_a57daeff.wem</Path>
+		</File>
+		<File Id="230623415" Language="Japanese">
+			<ShortName>INTL0z00_111010.wav</ShortName>
+			<Path>voices\japanese\intl0z00_111010_a57daeff.wem</Path>
+		</File>
+		<File Id="231824217" Language="Japanese">
+			<ShortName>INTL1000_1e1010.wav</ShortName>
+			<Path>voices\japanese\intl1000_1e1010_a57daeff.wem</Path>
+		</File>
+		<File Id="240784379" Language="English(US)">
+			<ShortName>intl0z00_111810.wav</ShortName>
+			<Path>voices\english(us)\intl0z00_111810_a57daeff.wem</Path>
+		</File>
+		<File Id="248123565" Language="English(US)">
+			<ShortName>SLTB0z10_4x1010_0_ened.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_4x1010_0_ened_a57daeff.wem</Path>
+		</File>
+		<File Id="252221607" Language="English(US)">
+			<ShortName>intl1000_1e1010.wav</ShortName>
+			<Path>voices\english(us)\intl1000_1e1010_a57daeff.wem</Path>
+		</File>
+		<File Id="252294098" Language="Japanese">
+			<ShortName>SLTB0z10_4x1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_4x1010_a57daeff.wem</Path>
+		</File>
+		<File Id="254747158" Language="Japanese">
+			<ShortName>PRSN1000_2a1010.wav</ShortName>
+			<Path>voices\japanese\prsn1000_2a1010_a57daeff.wem</Path>
+		</File>
+		<File Id="293639912" Language="Japanese">
+			<ShortName>SLTB0z10_4y1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_4y1010_a57daeff.wem</Path>
+		</File>
+		<File Id="309865567" Language="Japanese">
+			<ShortName>INTL3000_1c1010.wav</ShortName>
+			<Path>voices\japanese\intl3000_1c1010_a57daeff.wem</Path>
+		</File>
+		<File Id="320035012" Language="Japanese">
+			<ShortName>SLTB0z10_3b1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_3b1010_a57daeff.wem</Path>
+		</File>
+		<File Id="320865302" Language="Japanese">
+			<ShortName>RDPS1000_131510.wav</ShortName>
+			<Path>voices\japanese\rdps1000_131510_a57daeff.wem</Path>
+		</File>
+		<File Id="321214057" Language="English(US)">
+			<ShortName>SLTB0z10_3b1010_0_enec.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_3b1010_0_enec_a57daeff.wem</Path>
+		</File>
+		<File Id="329304406" Language="English(US)">
+			<ShortName>SLTB0z10_4w1010_0_enec.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_4w1010_0_enec_a57daeff.wem</Path>
+		</File>
+		<File Id="347818270" Language="Japanese">
+			<ShortName>PPRG1001_5e1010.wav</ShortName>
+			<Path>voices\japanese\pprg1001_5e1010_a57daeff.wem</Path>
+		</File>
+		<File Id="352869221" Language="Japanese">
+			<ShortName>PRSN1000_2i1010.wav</ShortName>
+			<Path>voices\japanese\prsn1000_2i1010_a57daeff.wem</Path>
+		</File>
+		<File Id="379555295" Language="English(US)">
+			<ShortName>pprg1001_5f1010.wav</ShortName>
+			<Path>voices\english(us)\pprg1001_5f1010_a57daeff.wem</Path>
+		</File>
+		<File Id="395992167" Language="English(US)">
+			<ShortName>intl0z00_111210.wav</ShortName>
+			<Path>voices\english(us)\intl0z00_111210_a57daeff.wem</Path>
+		</File>
+		<File Id="400990848" Language="Japanese">
+			<ShortName>SLTB0z10_181010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_181010_a57daeff.wem</Path>
+		</File>
+		<File Id="401851540" Language="English(US)">
+			<ShortName>intl3000_1j1010.wav</ShortName>
+			<Path>voices\english(us)\intl3000_1j1010_a57daeff.wem</Path>
+		</File>
+		<File Id="407575439" Language="English(US)">
+			<ShortName>SLTB0z10_181010_0_enea.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_181010_0_enea_a57daeff.wem</Path>
+		</File>
+		<File Id="409690546" Language="English(US)">
+			<ShortName>intl0z00_111410.wav</ShortName>
+			<Path>voices\english(us)\intl0z00_111410_a57daeff.wem</Path>
+		</File>
+		<File Id="420080602" Language="English(US)">
+			<ShortName>SLTB0z10_4u1010_0_enea.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_4u1010_0_enea_a57daeff.wem</Path>
+		</File>
+		<File Id="421974756" Language="English(US)">
+			<ShortName>intl1000_181010.wav</ShortName>
+			<Path>voices\english(us)\intl1000_181010_a57daeff.wem</Path>
+		</File>
+		<File Id="425199921" Language="Japanese">
+			<ShortName>INTL0z00_111510.wav</ShortName>
+			<Path>voices\japanese\intl0z00_111510_a57daeff.wem</Path>
+		</File>
+		<File Id="425410410" Language="Japanese">
+			<ShortName>SLTB0z10_131010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_131010_a57daeff.wem</Path>
+		</File>
+		<File Id="429067500" Language="English(US)">
+			<ShortName>intl1000_1a1010.wav</ShortName>
+			<Path>voices\english(us)\intl1000_1a1010_a57daeff.wem</Path>
+		</File>
+		<File Id="436304900" Language="Japanese">
+			<ShortName>INTL0z00_191010.wav</ShortName>
+			<Path>voices\japanese\intl0z00_191010_a57daeff.wem</Path>
+		</File>
+		<File Id="453282844" Language="English(US)">
+			<ShortName>intl1000_191010.wav</ShortName>
+			<Path>voices\english(us)\intl1000_191010_a57daeff.wem</Path>
+		</File>
+		<File Id="465036326" Language="Japanese">
+			<ShortName>INTL0z00_111410.wav</ShortName>
+			<Path>voices\japanese\intl0z00_111410_a57daeff.wem</Path>
+		</File>
+		<File Id="497352724" Language="English(US)">
+			<ShortName>rdps1000_131510.wav</ShortName>
+			<Path>voices\english(us)\rdps1000_131510_a57daeff.wem</Path>
+		</File>
+		<File Id="499055945" Language="English(US)">
+			<ShortName>prsn1000_261010.wav</ShortName>
+			<Path>voices\english(us)\prsn1000_261010_a57daeff.wem</Path>
+		</File>
+		<File Id="506413058" Language="English(US)">
+			<ShortName>SLTB0z10_4q1010_0_enea.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_4q1010_0_enea_a57daeff.wem</Path>
+		</File>
+		<File Id="508426229" Language="English(US)">
+			<ShortName>SLTB0z10_4r1010_0_enec.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_4r1010_0_enec_a57daeff.wem</Path>
+		</File>
+		<File Id="527189534" Language="Japanese">
+			<ShortName>PPRG1001_5f1010.wav</ShortName>
+			<Path>voices\japanese\pprg1001_5f1010_a57daeff.wem</Path>
+		</File>
+		<File Id="530891320" Language="English(US)">
+			<ShortName>intl3000_131010.wav</ShortName>
+			<Path>voices\english(us)\intl3000_131010_a57daeff.wem</Path>
+		</File>
+		<File Id="565566353" Language="English(US)">
+			<ShortName>rdps1000_121510.wav</ShortName>
+			<Path>voices\english(us)\rdps1000_121510_a57daeff.wem</Path>
+		</File>
+		<File Id="574197167" Language="English(US)">
+			<ShortName>intl1000_1b1010.wav</ShortName>
+			<Path>voices\english(us)\intl1000_1b1010_a57daeff.wem</Path>
+		</File>
+		<File Id="578335868" Language="Japanese">
+			<ShortName>SLTB0z10_4u1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_4u1010_a57daeff.wem</Path>
+		</File>
+		<File Id="593369541" Language="English(US)">
+			<ShortName>SLTB0z10_3a1010_0_ened.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_3a1010_0_ened_a57daeff.wem</Path>
+		</File>
+		<File Id="618892655" Language="English(US)">
+			<ShortName>pprg1001_5e1010.wav</ShortName>
+			<Path>voices\english(us)\pprg1001_5e1010_a57daeff.wem</Path>
+		</File>
+		<File Id="630885237" Language="Japanese">
+			<ShortName>INTL1000_1a1010.wav</ShortName>
+			<Path>voices\japanese\intl1000_1a1010_a57daeff.wem</Path>
+		</File>
+		<File Id="632378731" Language="English(US)">
+			<ShortName>SLTB0z10_501010_0_ened.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_501010_0_ened_a57daeff.wem</Path>
+		</File>
+		<File Id="651833758" Language="English(US)">
+			<ShortName>intl0z00_111010.wav</ShortName>
+			<Path>voices\english(us)\intl0z00_111010_a57daeff.wem</Path>
+		</File>
+		<File Id="654202020" Language="English(US)">
+			<ShortName>intl1000_1c1010.wav</ShortName>
+			<Path>voices\english(us)\intl1000_1c1010_a57daeff.wem</Path>
+		</File>
+		<File Id="656213661" Language="English(US)">
+			<ShortName>SLTB0z10_4y1010_0_enec.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_4y1010_0_enec_a57daeff.wem</Path>
+		</File>
+		<File Id="659067597" Language="English(US)">
+			<ShortName>intl0z00_111310.wav</ShortName>
+			<Path>voices\english(us)\intl0z00_111310_a57daeff.wem</Path>
+		</File>
+		<File Id="666940331" Language="English(US)">
+			<ShortName>Abb_GameOver.wav</ShortName>
+			<Path>voices\english(us)\abb_gameover_a57daeff.wem</Path>
+		</File>
+		<File Id="666940331" Language="Japanese" UsingReferenceLanguageAsStandIn="true">
+			<ShortName>Abb_GameOver.wav</ShortName>
+			<Path>voices\english(us)\abb_gameover_a57daeff.wem</Path>
+		</File>
+		<File Id="672235972" Language="Japanese">
+			<ShortName>INTL3000_141010.wav</ShortName>
+			<Path>voices\japanese\intl3000_141010_a57daeff.wem</Path>
+		</File>
+		<File Id="677082227" Language="Japanese">
+			<ShortName>SLTB0z10_4q1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_4q1010_a57daeff.wem</Path>
+		</File>
+		<File Id="677523319" Language="English(US)">
+			<ShortName>intl0z00_111710.wav</ShortName>
+			<Path>voices\english(us)\intl0z00_111710_a57daeff.wem</Path>
+		</File>
+		<File Id="681293948" Language="Japanese">
+			<ShortName>SLTB0z10_4s1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_4s1010_a57daeff.wem</Path>
+		</File>
+		<File Id="694986894" Language="Japanese">
+			<ShortName>PPRG1001_3u1010.wav</ShortName>
+			<Path>voices\japanese\pprg1001_3u1010_a57daeff.wem</Path>
+		</File>
+		<File Id="707459627" Language="Japanese">
+			<ShortName>INTL0z00_111810.wav</ShortName>
+			<Path>voices\japanese\intl0z00_111810_a57daeff.wem</Path>
+		</File>
+		<File Id="708510368" Language="English(US)">
+			<ShortName>SLTB0z10_4v1010_0_enec.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_4v1010_0_enec_a57daeff.wem</Path>
+		</File>
+		<File Id="721176272" Language="Japanese">
+			<ShortName>INTL1000_1b1010.wav</ShortName>
+			<Path>voices\japanese\intl1000_1b1010_a57daeff.wem</Path>
+		</File>
+		<File Id="746568953" Language="English(US)">
+			<ShortName>SLTB0z10_4t1010_0_enec.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_4t1010_0_enec_a57daeff.wem</Path>
+		</File>
+		<File Id="746595299" Language="English(US)">
+			<ShortName>pprg1001_3u1010.wav</ShortName>
+			<Path>voices\english(us)\pprg1001_3u1010_a57daeff.wem</Path>
+		</File>
+		<File Id="771988385" Language="Japanese">
+			<ShortName>INTL1000_181010.wav</ShortName>
+			<Path>voices\japanese\intl1000_181010_a57daeff.wem</Path>
+		</File>
+		<File Id="777403454" Language="Japanese">
+			<ShortName>INTL0z00_111310.wav</ShortName>
+			<Path>voices\japanese\intl0z00_111310_a57daeff.wem</Path>
+		</File>
+		<File Id="806770186" Language="English(US)">
+			<ShortName>idrd1000_1g1010_0_idroid.wav</ShortName>
+			<Path>voices\english(us)\idrd1000_1g1010_0_idroid_a57daeff.wem</Path>
+		</File>
+		<File Id="822602371" Language="English(US)">
+			<ShortName>SLTB0z10_4z1010_0_enec.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_4z1010_0_enec_a57daeff.wem</Path>
+		</File>
+		<File Id="826887622" Language="English(US)">
+			<ShortName>SLTB0z10_3d1010_0_ened.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_3d1010_0_ened_a57daeff.wem</Path>
+		</File>
+		<File Id="833338096" Language="English(US)">
+			<ShortName>pprg1012_191010.wav</ShortName>
+			<Path>voices\english(us)\pprg1012_191010_a57daeff.wem</Path>
+		</File>
+		<File Id="837912418" Language="Japanese">
+			<ShortName>idrd1000_1g1010_0_idroid.wav</ShortName>
+			<Path>voices\japanese\idrd1000_1g1010_0_idroid_a57daeff.wem</Path>
+		</File>
+		<File Id="846757088" Language="English(US)">
+			<ShortName>SLTB0z10_4s1010_0_enea.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_4s1010_0_enea_a57daeff.wem</Path>
+		</File>
+		<File Id="861676648" Language="English(US)">
+			<ShortName>prsn1000_2i1010.wav</ShortName>
+			<Path>voices\english(us)\prsn1000_2i1010_a57daeff.wem</Path>
+		</File>
+		<File Id="863776556" Language="Japanese">
+			<ShortName>INTL0z00_111210.wav</ShortName>
+			<Path>voices\japanese\intl0z00_111210_a57daeff.wem</Path>
+		</File>
+		<File Id="875889172" Language="Japanese">
+			<ShortName>PRSN1000_2m1010.wav</ShortName>
+			<Path>voices\japanese\prsn1000_2m1010_a57daeff.wem</Path>
+		</File>
+		<File Id="884624706" Language="Japanese">
+			<ShortName>RDPS2000_151210.wav</ShortName>
+			<Path>voices\japanese\rdps2000_151210_a57daeff.wem</Path>
+		</File>
+		<File Id="886283096" Language="Japanese">
+			<ShortName>SLTB0z10_3c1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_3c1010_a57daeff.wem</Path>
+		</File>
+		<File Id="888613723" Language="Japanese">
+			<ShortName>PPRG1012_191010.wav</ShortName>
+			<Path>voices\japanese\pprg1012_191010_a57daeff.wem</Path>
+		</File>
+		<File Id="896661911" Language="Japanese">
+			<ShortName>SLTB0z10_3d1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_3d1010_a57daeff.wem</Path>
+		</File>
+		<File Id="898995257" Language="English(US)">
+			<ShortName>intl0z00_111510.wav</ShortName>
+			<Path>voices\english(us)\intl0z00_111510_a57daeff.wem</Path>
+		</File>
+		<File Id="908513790" Language="Japanese">
+			<ShortName>INTL3000_1i1010.wav</ShortName>
+			<Path>voices\japanese\intl3000_1i1010_a57daeff.wem</Path>
+		</File>
+		<File Id="945386195" Language="Japanese">
+			<ShortName>RDPS1000_121510.wav</ShortName>
+			<Path>voices\japanese\rdps1000_121510_a57daeff.wem</Path>
+		</File>
+		<File Id="968647435" Language="English(US)">
+			<ShortName>SLTB0z10_3e1010_0_enec.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_3e1010_0_enec_a57daeff.wem</Path>
+		</File>
+		<File Id="974797438" Language="Japanese">
+			<ShortName>SLTB0z10_4r1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_4r1010_a57daeff.wem</Path>
+		</File>
+		<File Id="982902263" Language="Japanese">
+			<ShortName>PPRG1012_1a1010.wav</ShortName>
+			<Path>voices\japanese\pprg1012_1a1010_a57daeff.wem</Path>
+		</File>
+		<File Id="1013175640" Language="Japanese">
+			<ShortName>PRSN1000_261010.wav</ShortName>
+			<Path>voices\japanese\prsn1000_261010_a57daeff.wem</Path>
+		</File>
+		<File Id="1014455942" Language="Japanese">
+			<ShortName>INTL3000_1o1010.wav</ShortName>
+			<Path>voices\japanese\intl3000_1o1010_a57daeff.wem</Path>
+		</File>
+		<File Id="1042107184" Language="English(US)">
+			<ShortName>SLTB0z10_131010_0_ened.wav</ShortName>
+			<Path>voices\english(us)\sltb0z10_131010_0_ened_a57daeff.wem</Path>
+		</File>
+		<File Id="1051495237" Language="Japanese">
+			<ShortName>PRSN1000_2e1010.wav</ShortName>
+			<Path>voices\japanese\prsn1000_2e1010_a57daeff.wem</Path>
+		</File>
+		<File Id="1054408349" Language="Japanese">
+			<ShortName>SLTB0z10_3a1010.wav</ShortName>
+			<Path>voices\japanese\sltb0z10_3a1010_a57daeff.wem</Path>
+		</File>
+		<File Id="1071830936" Language="Japanese">
+			<ShortName>INTL3000_131010.wav</ShortName>
+			<Path>voices\japanese\intl3000_131010_a57daeff.wem</Path>
+		</File>
+	</StreamedFiles>
+	<SoundBanks>
+		<SoundBank Id="1212524656" Language="English(US)">
+			<ShortName>vox_s13103</ShortName>
+			<Path>English(US)\vox_s13103.bnk</Path>
+			<IncludedEvents />
+			<IncludedDialogueEvents>
+				<DialogueEvent Id="2046853485" Name="DB_s13103" />
+				<DialogueEvent Id="894968595" Name="DD_s13103" />
+			</IncludedDialogueEvents>
+			<ReferencedStreamedFiles>
+				<File Id="666940331" />
+				<File Id="806770186" />
+				<File Id="651833758" />
+				<File Id="395992167" />
+				<File Id="659067597" />
+				<File Id="409690546" />
+				<File Id="898995257" />
+				<File Id="151279488" />
+				<File Id="677523319" />
+				<File Id="240784379" />
+				<File Id="421974756" />
+				<File Id="453282844" />
+				<File Id="429067500" />
+				<File Id="574197167" />
+				<File Id="654202020" />
+				<File Id="252221607" />
+				<File Id="530891320" />
+				<File Id="96871802" />
+				<File Id="59314463" />
+				<File Id="401851540" />
+				<File Id="227198206" />
+				<File Id="746595299" />
+				<File Id="618892655" />
+				<File Id="379555295" />
+				<File Id="833338096" />
+				<File Id="172575377" />
+				<File Id="499055945" />
+				<File Id="119982890" />
+				<File Id="92660377" />
+				<File Id="861676648" />
+				<File Id="70062096" />
+				<File Id="565566353" />
+				<File Id="497352724" />
+				<File Id="219021958" />
+				<File Id="1042107184" />
+				<File Id="407575439" />
+				<File Id="593369541" />
+				<File Id="321214057" />
+				<File Id="101878154" />
+				<File Id="826887622" />
+				<File Id="968647435" />
+				<File Id="506413058" />
+				<File Id="508426229" />
+				<File Id="846757088" />
+				<File Id="746568953" />
+				<File Id="420080602" />
+				<File Id="708510368" />
+				<File Id="329304406" />
+				<File Id="248123565" />
+				<File Id="656213661" />
+				<File Id="822602371" />
+				<File Id="632378731" />
+			</ReferencedStreamedFiles>
+			<IncludedFullFiles />
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+		<SoundBank Id="1212524656" Language="Japanese">
+			<ShortName>vox_s13103</ShortName>
+			<Path>Japanese\vox_s13103.bnk</Path>
+			<IncludedEvents />
+			<IncludedDialogueEvents>
+				<DialogueEvent Id="2046853485" Name="DB_s13103" />
+				<DialogueEvent Id="894968595" Name="DD_s13103" />
+			</IncludedDialogueEvents>
+			<ReferencedStreamedFiles>
+				<File Id="666940331" />
+				<File Id="837912418" />
+				<File Id="230623415" />
+				<File Id="863776556" />
+				<File Id="777403454" />
+				<File Id="465036326" />
+				<File Id="425199921" />
+				<File Id="64624185" />
+				<File Id="224594960" />
+				<File Id="707459627" />
+				<File Id="436304900" />
+				<File Id="771988385" />
+				<File Id="630885237" />
+				<File Id="721176272" />
+				<File Id="76203700" />
+				<File Id="231824217" />
+				<File Id="1071830936" />
+				<File Id="672235972" />
+				<File Id="309865567" />
+				<File Id="908513790" />
+				<File Id="1014455942" />
+				<File Id="694986894" />
+				<File Id="347818270" />
+				<File Id="527189534" />
+				<File Id="888613723" />
+				<File Id="982902263" />
+				<File Id="1013175640" />
+				<File Id="254747158" />
+				<File Id="1051495237" />
+				<File Id="352869221" />
+				<File Id="875889172" />
+				<File Id="945386195" />
+				<File Id="320865302" />
+				<File Id="884624706" />
+				<File Id="425410410" />
+				<File Id="400990848" />
+				<File Id="1054408349" />
+				<File Id="320035012" />
+				<File Id="886283096" />
+				<File Id="896661911" />
+				<File Id="9727895" />
+				<File Id="677082227" />
+				<File Id="974797438" />
+				<File Id="681293948" />
+				<File Id="166066328" />
+				<File Id="578335868" />
+				<File Id="31628035" />
+				<File Id="124622275" />
+				<File Id="252294098" />
+				<File Id="293639912" />
+				<File Id="220642804" />
+				<File Id="22738124" />
+			</ReferencedStreamedFiles>
+			<IncludedFullFiles />
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedEvents />
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles />
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+		<SoundBank Id="2121631771" Language="SFX">
+			<ShortName>bgm_s13103</ShortName>
+			<Path>bgm_s13103.bnk</Path>
+			<IncludedEvents>
+				<Event Id="573640677" Name="Play_bgm_s13103_credits_ed" />
+				<Event Id="1541442302" Name="Play_bgm_s13103_jingle_op" />
+				<Event Id="79744744" Name="Play_bgm_s13103_phase" />
+				<Event Id="2459968603" Name="Play_bgm_s13103_PT" />
+				<Event Id="1481996523" Name="Stop_bgm_s13103_credits_ed" />
+				<Event Id="3205739948" Name="Stop_bgm_s13103_jingle_op" />
+				<Event Id="591131313" Name="Stop_bgm_s13103_PT" />
+			</IncludedEvents>
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles>
+				<File Id="858328842" Language="SFX">
+					<ShortName>bgm_pazescape_Alert.wav</ShortName>
+					<Path>sfx\bgm_pazescape_alert_5df71bc4.wem</Path>
+				</File>
+				<File Id="644773678" Language="SFX">
+					<ShortName>bgm_pazescape_Clearing.wav</ShortName>
+					<Path>sfx\bgm_pazescape_clearing_965d0c31.wem</Path>
+				</File>
+				<File Id="277072139" Language="SFX">
+					<ShortName>bgm_pazescape_Evasion.wav</ShortName>
+					<Path>sfx\bgm_pazescape_evasion_78ddcfed.wem</Path>
+				</File>
+				<File Id="876959968" Language="SFX">
+					<ShortName>bgm_pazescape_SneakCaution.wav</ShortName>
+					<Path>sfx\bgm_pazescape_sneakcaution_24e0eb53.wem</Path>
+				</File>
+				<File Id="588857310" Language="SFX">
+					<ShortName>bgm_pazescape_tranision_ToAlert.wav</ShortName>
+					<Path>sfx\bgm_pazescape_tranision_toalert_375e1196.wem</Path>
+				</File>
+				<File Id="600638332" Language="SFX">
+					<ShortName>bgm_pazescape_tranision_ToEvasion.wav</ShortName>
+					<Path>sfx\bgm_pazescape_tranision_toevasion_89ebe686.wem</Path>
+				</File>
+				<File Id="566875845" Language="SFX">
+					<ShortName>bgm_phase_lowhealth.wav</ShortName>
+					<Path>sfx\bgm_phase_lowhealth_15a2d486.wem</Path>
+				</File>
+				<File Id="70841388" Language="SFX">
+					<ShortName>bgm_s13103_credits_ed.wav</ShortName>
+					<Path>sfx\bgm_s13103_credits_ed_79c18d0d.wem</Path>
+				</File>
+				<File Id="926610950" Language="SFX">
+					<ShortName>bgm_TelopJingle_op.wav</ShortName>
+					<Path>sfx\bgm_telopjingle_op_a57daeff.wem</Path>
+				</File>
+				<File Id="631484324" Language="SFX">
+					<ShortName>EndGame..wav</ShortName>
+					<Path>sfx\endgame._d6ac4efa.wem</Path>
+				</File>
+				<File Id="526711377" Language="SFX">
+					<ShortName>paz_is_dead.wav</ShortName>
+					<Path>sfx\paz_is_dead_1fcfe6c3.wem</Path>
+				</File>
+				<File Id="19970247" Language="SFX">
+					<ShortName>pazescape_ToSneakCaution.wav</ShortName>
+					<Path>sfx\pazescape_tosneakcaution_a26b90df.wem</Path>
+				</File>
+			</IncludedFullFiles>
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
